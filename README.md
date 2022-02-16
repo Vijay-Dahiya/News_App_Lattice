@@ -1,6 +1,6 @@
 
 # NewsForDaily
-Hi, This app can be used for crop a image.
+Hi, This app will give latest news.
 
 Used Open Source-Libraries 😎
 1. Retrofit
