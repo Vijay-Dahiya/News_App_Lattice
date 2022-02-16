@@ -1,5 +1,5 @@
-"# NewsForDaily" 
-# CameraAppForTotality
+
+# NewsForDaily
 Hi, This app can be used for crop a image.
 
 Used Open Source-Libraries 😎
